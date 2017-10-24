@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!--LOS Repos-->
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+  <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" />
+  <!--Device Repos-->
+  <project name="ivanmeler/android_device_huawei_rio" path="device/huawei/rio" remote="github"/>
+  <project name="ivanmeler/android_kernel_huawei_msm8939" path="kernel/huawei/msm8939" remote="github"/>
+  <project name="ivanmeler/android_vendor_huawei_rio" path="vendor/huawei/rio" remote="github"/>
+</manifest>
