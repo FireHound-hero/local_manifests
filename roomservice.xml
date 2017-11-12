@@ -5,12 +5,12 @@
   <!--Blobs-->
   <project name="8890dev/android_vendor_samsung_hero-common" path="vendor/samsung/hero-common" remote="github" revision="cm-14.1" />
   <!--Device Repos-->
-  <project name="ivanmeler/android_device_samsung_hero2lte" path="device/samsung/hero2lte" remote="private" />
-  <project name="ivanmeler/android_device_samsung_herolte" path="device/samsung/herolte" remote="private" />
-  <project name="ivanmeler/android_device_samsung_hero-common" path="device/samsung/hero-common" remote="private" />
-  <project name="ivanmeler/android_hardware_samsung" path="hardware/samsung" remote="private" />
-  <project name="ivanmeler/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="private" />
-  <project name="ivanmeler/android_hardware_samsung_slsi-cm_exynos8890" path="hardware/samsung_slsi-cm/exynos8890" remote="private" />
-  <project name="ivanmeler/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="private" />
-  <project name="ivanmeler/android_kernel_samsung_universal8890" path="kernel/samsung/universal8890" remote="private" />
+  <project name="ivanmeler/android_device_samsung_hero2lte" path="device/samsung/hero2lte" remote="github" />
+  <project name="ivanmeler/android_device_samsung_herolte" path="device/samsung/herolte" remote="github" />
+  <project name="ivanmeler/android_device_samsung_hero-common" path="device/samsung/hero-common" remote="github" />
+  <project name="ivanmeler/android_hardware_samsung" path="hardware/samsung" remote="github" />
+  <project name="ivanmeler/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" />
+  <project name="ivanmeler/android_hardware_samsung_slsi-cm_exynos8890" path="hardware/samsung_slsi-cm/exynos8890" remote="github" />
+  <project name="ivanmeler/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" />
+  <project name="ivanmeler/android_kernel_samsung_universal8890" path="kernel/samsung/universal8890" remote="github" />
 </manifest>
