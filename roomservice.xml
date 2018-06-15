@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!--Device tree-->
-  <project name="ivanmeler/android_device_samsung_hero2lte" path="device/samsung/hero2lte" remote="github" revision="lineage-15.1"/>
-  <project name="ivanmeler/android_device_samsung_herolte" path="device/samsung/herolte" remote="github" revision="lineage-15.1"/>
+  <project name="FireHound-hero/device_hero2lte" path="device/samsung/hero2lte" remote="github" revision="lineage-15.1"/>
+  <project name="FireHound-hero/device_herolte" path="device/samsung/herolte" remote="github" revision="lineage-15.1"/>
   <project name="Haxynox/seals_something_anotherhing" path="device/samsung/hero-common" remote="github" revision="seals"/>
   <!--Hardware-->
   <project name="ivanmeler/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1"/>
